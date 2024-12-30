@@ -24,8 +24,8 @@ function Home2() {
               <i>
                 <b className="purple"> Javascript, Node and Express </b>,
                 and I actively use
-                <b className="purple"> Git and GitHub</b>
-                <br />for version control and collaboration on projects.
+                <b className="purple"> Git and GitHub </b>
+                for version control and collaboration on projects.
               </i>
               <br />
               <br />
