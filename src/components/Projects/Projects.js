@@ -25,9 +25,9 @@ function Projects() {
               imgPath={Ecommerce}
               isBlog={false}
               title="E-Commerce"
-              description="In this E-Commerce website project, user can explore products, filer and short the product and user can add the product in cart by selecting product variant like size. User can also order the product by providing the delivery address and using any Payment method either Cash on Delivery or Online payment. In this Full Stack e commerce project we will add 2 online payment gateways that is Stripe and Razorpay. So that customer can pay online and place the order."
-            // ghLink="https://github.com/soumyajit4419/Chatify"
-            // demoLink="https://chatify-49.web.app/"  add link if u host your websites
+              description="In this E-Commerce website project, user can explore products, filer and short the product and user can add the product in cart by selecting product variant like size. User can also order the product by providing the delivery address and using any Payment method either Cash on Delivery or Online payment.In this Project I have added a admin panel where i can manage the product adding functionality and also changing the order status"
+              ghLink="https://github.com/shankyhp/E-Commerce-React"
+              demoLink="https://forever-frontend-roan-seven.vercel.app/"  //add link if u host your websites
 
             />
           </Col>
