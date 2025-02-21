@@ -7,6 +7,7 @@ import textutils from "../../Assets/Projects/text-util.png"
 import simon from "../../Assets/Projects/simon.png"
 import Ecommerce from '../../Assets/Projects/E-commerce.png'
 import inotebook from '../../Assets/Projects/I-notebook.png'
+import soda from '../../Assets/Projects/soda.png'
 
 function Projects() {
   return (
@@ -28,6 +29,17 @@ function Projects() {
               description="In this E-Commerce website project, user can explore products, filer and short the product and user can add the product in cart by selecting product variant like size. User can also order the product by providing the delivery address and using any Payment method either Cash on Delivery or Online payment.In this Project I have added a admin panel where i can manage the product adding functionality and also changing the order status"
               ghLink="https://github.com/shankyhp/E-Commerce-React"
               demoLink="https://forever-frontend-roan-seven.vercel.app/"  //add link if u host your websites
+
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={soda}
+              isBlog={false}
+              title="3D-Soda Can Landing page"
+              description="Slurpy-A Can Drink is a modern, interactive landing page website designed for a soda-based company. The project combines engaging 3D animations and modules with a clean and responsive UI to create a delightful user experience. It is my first animated website using the magic of GSAP and Three JS. Special thanks to React Three Drei for providing fully functional abstractions for @react-three/fiber."
+              ghLink="https://github.com/shankyhp/slurpy"
+              demoLink="https://slurpy-gamma.vercel.app/"  //add link if u host your websites
 
             />
           </Col>
